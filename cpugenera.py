@@ -40,6 +40,7 @@ for i in range(int(cantidadagenerar)):
         if textocodigo == line.strip():	#comparacion codigo generado con linea leida de archivo cpu
             banderaexistente = 1		#indica que el codigo generado ya existia en el archivo
             print("el codigo ya existe en la lista \n")
+            break;
         else:
             banderaexistente = 0      	#indica que el codigo generado no existe en el archivo
     buscarepetido.close()			#cierre de archivo de lectura	
