@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 #EDGAR ESPINOSA OCTUBRE 2021
-#github.com/eddgar10/codigosdebarraspresonalizado
+#github.com/eddgar10/codigosdebarrapersonalizado
 #fuentes: 
 #https://www.geeksforgeeks.org/how-to-generate-barcode-in-python/
 #https://www.geeksforgeeks.org/read-a-file-line-by-line-in-python/
